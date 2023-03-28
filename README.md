@@ -1,6 +1,6 @@
 # FURYhub
 
-![Banner](https://raw.githubusercontent.com/furynet/furyhub/master/docs/pics/fury.jpg)
+![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/fury.jpg)
 
 [![License](https://img.shields.io/github/license/furynet/furyhub.svg)](https://github.com/furynet/furyhub/blob/master/LICENSE)
 [![Version](https://img.shields.io/github/tag/furynet/furyhub.svg)](https://github.com/furynet/furyhub/releases)
