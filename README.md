@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/download%20(1).jpeg)
+![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/Black%20Modern%20Bold%20Basketball%20Sport%20Magazine%20Cover.png)
 
 # Fanfury
 
