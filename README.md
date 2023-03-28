@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/black-iphone-wallpaper-hooligan.png)
+![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/download.png)
 
 # Fanfury
 
