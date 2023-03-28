@@ -2,6 +2,8 @@
 
 # Fanfury
 
+🧬 🏆 As the centrepiece of the FURY Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports and gaming hub connecting to the main Cosmos Hub 🏆 🏟️ 🧬 🎰
+
 [![License](https://img.shields.io/github/license/furynet/furyhub.svg)](https://github.com/furynet/furyhub/blob/master/LICENSE)
 [![Version](https://img.shields.io/github/tag/furynet/furyhub.svg)](https://github.com/furynet/furyhub/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/furynet/furyhub)](https://goreportcard.com/report/github.com/furynet/furyhub)
