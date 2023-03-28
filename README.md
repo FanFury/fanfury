@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/download(1).jpg)
+![Banner](https://raw.githubusercontent.com/fanfury-sports/fanfury/furyhub-1/docs/pics/download%20(1).jpeg)
 
 # Fanfury
 
