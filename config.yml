@@ -1,0 +1,18 @@
+version: 1
+accounts:
+  - name: treasury
+    coins: ["9000000000000ufury"]
+  - name: seed
+    coins: ["1000000000000ufury"]
+validators:
+  - name: treasury
+    bonded: "1000000000000ufury"
+genesis:
+  app_state:
+    staking:
+      params:
+        bond_denom: "ufury"
+    crisis:
+      constant_fee:
+        denom: "ufury"
+        amount: "1000"
