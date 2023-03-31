@@ -37,11 +37,11 @@ fury keys add MyValidator
 Add that key into the genesis.app_state.accounts array in the genesis file
 
 :::tip
-this command lets you set the number of coins. Make sure this account has some ufury which is the only staking coin on FURYhub
+this command lets you set the number of coins. Make sure this account has some utfury which is the only staking coin on FURYhub
 :::
 
 ```bash
-fury add-genesis-account $(fury keys show MyValidator --address) 150000000ufury
+fury add-genesis-account $(fury keys show MyValidator --address) 150000000utfury
 ```
 
 ### fury gentx
@@ -49,7 +49,7 @@ fury add-genesis-account $(fury keys show MyValidator --address) 150000000ufury
 Generate the transaction that creates your validator. The gentxs are stored in `~/.fury/config/gentx/`
 
 ```bash
-fury gentx MyValidator 100000000ufury --chain-id=testing 
+fury gentx MyValidator 100000000utfury --chain-id=testing 
 ```
 
 ### fury collect-gentxs
@@ -62,10 +62,10 @@ fury collect-gentxs
 
 ### fury start
 
-Change the default token denom to `ufury`
+Change the default token denom to `utfury`
 
 ```bash
-sed -i 's/stake/ufury/g' $HOME/.fury/config/genesis.json
+sed -i 's/stake/utfury/g' $HOME/.fury/config/genesis.json
 ```
 
 Now it‘s ready to start `fury`

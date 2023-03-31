@@ -57,7 +57,7 @@ var (
 	flagStartingIPAddress = "starting-ip-address"
 )
 
-const nativeFuryMinUnit = "ufury"
+const nativeFuryMinUnit = "utfury"
 
 var PowerReduction = sdk.NewIntFromUint64(1000000000000000000)
 

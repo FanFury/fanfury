@@ -38,9 +38,9 @@ func init() {
 		Symbol:        "fury",
 		Name:          "Furyhub staking token",
 		Scale:         6,
-		MinUnit:       "ufury",
-		InitialSupply: 2000000000,
-		MaxSupply:     10000000000,
+		MinUnit:       "utfury",
+		InitialSupply: 53000000,
+		MaxSupply:     420000000,
 		Mintable:      true,
 		Owner:         sdk.AccAddress(crypto.AddressHash([]byte(tokentypes.ModuleName))).String(),
 	}

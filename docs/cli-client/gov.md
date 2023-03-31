@@ -223,8 +223,8 @@ Where proposal.json contains:
     "title": "Community Pool Spend",
     "description": "Pay me some Atoms!",
     "recipient": "did:fury:iaa1mjk4p68mmulwla3x5uzlgjwsc3zrms448rel3q",
-    "amount": "1000ufury",
-    "deposit": "1000ufury"
+    "amount": "1000utfury",
+    "deposit": "1000utfury"
 }
 ```
 
@@ -254,7 +254,7 @@ Where proposal.json contains:
         "value": 105
         }
     ],
-    "deposit": "1000ufury"
+    "deposit": "1000utfury"
 }
 ```
 

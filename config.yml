@@ -1,18 +1,18 @@
 version: 1
 accounts:
   - name: treasury
-    coins: ["9000000000000ufury"]
+    coins: ["9000000000000utfury"]
   - name: seed
-    coins: ["1000000000000ufury"]
+    coins: ["1000000000000utfury"]
 validators:
   - name: treasury
-    bonded: "1000000000000ufury"
+    bonded: "1000000000000utfury"
 genesis:
   app_state:
     staking:
       params:
-        bond_denom: "ufury"
+        bond_denom: "utfury"
     crisis:
       constant_fee:
-        denom: "ufury"
+        denom: "utfury"
         amount: "1000"
